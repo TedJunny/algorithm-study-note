@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+most_view_movie.py
+array_swing.py
